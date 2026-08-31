@@ -247,44 +247,27 @@ View Repository →
 
 ---
 
-## GitHub Dashboard
+## Github Stats :
 
 <div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=prasadgite&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true"
-    media="(prefers-color-scheme: dark)"
+  <img 
+    src="https://streak-stats.demolab.com?user=prasadgite&theme=tokyonight&hide_border=true&border_radius=25" 
+    alt="GitHub Streak" 
+    height="195" 
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=prasadgite&show_icons=true&hide_border=true&theme=default&rank_icon=github&include_all_commits=true"
-    media="(prefers-color-scheme: light)"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgite&theme=tokyonight&hide_border=true&border_radius=25&langs_count=6" 
+    alt="Most Used Languages" 
+    height="195" 
   />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=prasadgite&show_icons=true&hide_border=true&theme=default&rank_icon=github&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgite&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgite&layout=compact&hide_border=true&theme=default&langs_count=8"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgite&layout=compact&hide_border=true&theme=default&langs_count=8"
-    alt="Most Used Languages"
-  />
-</picture>
-
 </div>
 
+<div align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=prasadgite&label=visitors&color=00b4d8&style=flat-square" 
+    alt="Visitors Counter" 
+  />
+</div>
 <br>
 
 <div align="center">
