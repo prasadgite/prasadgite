@@ -249,39 +249,15 @@ View Repository →
 
 ## GitHub Dashboard
 
+## Contribution Activity
+
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=prasadgite&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=prasadgite&show_icons=true&hide_border=true&theme=default&rank_icon=github&include_all_commits=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=prasadgite&show_icons=true&hide_border=true&theme=default&rank_icon=github&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgite&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgite&layout=compact&hide_border=true&theme=default&langs_count=8"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgite&layout=compact&hide_border=true&theme=default&langs_count=8"
-    alt="Most Used Languages"
-  />
-</picture>
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=prasadgite&theme=minimal&hide_border=true&area=true"
+  alt="GitHub Contribution Activity Graph"
+/>
 
 </div>
 
@@ -307,27 +283,10 @@ View Repository →
 </div>
 
 ---
-
 ## Contribution Activity
 
 <div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=prasadgite&theme=github-compact&hide_border=true&area=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=prasadgite&theme=minimal&hide_border=true&area=true"
-  />
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prasadgite&theme=minimal&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
-  />
-</picture>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadgite&theme=github-compact&hide_border=true&area=true" width="100%" alt="Prasad's Activity Graph" />
 </div>
 
 ---
@@ -335,15 +294,8 @@ View Repository →
 ## GitHub Achievements
 
 <div align="center">
-
-<img
-  width="100%"
-  src="https://github-profile-trophy.vercel.app/?username=prasadgite&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"
-  alt="GitHub Profile Trophies"
-/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=prasadgite&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Profile Trophies" />
 </div>
-
 ---
 
 ## Contribution Snake
