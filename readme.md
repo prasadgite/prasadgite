@@ -253,13 +253,9 @@ View Repository →
   <img 
     src="https://streak-stats.demolab.com?user=prasadgite&theme=tokyonight&hide_border=true&border_radius=25" 
     alt="GitHub Streak" 
-    height="195" 
+    height="100" 
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgite&theme=tokyonight&hide_border=true&border_radius=25&langs_count=6" 
-    alt="Most Used Languages" 
-    height="195" 
-  />
+  
 </div>
 
 <div align="center">
