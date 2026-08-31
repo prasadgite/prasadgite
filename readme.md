@@ -253,7 +253,7 @@ View Repository →
   <img 
     src="https://streak-stats.demolab.com?user=prasadgite&theme=tokyonight&hide_border=true&border_radius=25" 
     alt="GitHub Streak" 
-    height="100" 
+    height="150" 
   />
   
 </div>
@@ -268,20 +268,7 @@ View Repository →
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=prasadgite&theme=github-dark-blue&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=prasadgite&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=prasadgite&theme=default&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</picture>
+
 
 </div>
 
